@@ -15,10 +15,10 @@ Welcome to the development repository for our Yoga Website! This website aims to
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites 
-- https://nodejs.org
+- [NodeJs](https://nodejs.org)
 - https://reactjs.org
 - https://www.mongodb.com
 
 ### Installing
 1. Clone the repository to your local machine
-    git clone https://github.com/[username]/yoga-website.git
+    
