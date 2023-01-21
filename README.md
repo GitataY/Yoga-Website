@@ -15,9 +15,7 @@ Welcome to the development repository for our Yoga Website! This website aims to
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites 
-- [NodeJs](https://nodejs.org)
-- [React](https://reactjs.org)
-- [MongoDb](https://www.mongodb.com)
+- 
 
 ### Installing
 1. Clone the repository to your local machine
