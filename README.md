@@ -16,8 +16,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites 
 - [NodeJs](https://nodejs.org)
-- https://reactjs.org
-- https://www.mongodb.com
+- [React](https://reactjs.org)
+- [MongoDb](https://www.mongodb.com)
 
 ### Installing
 1. Clone the repository to your local machine
